@@ -84,6 +84,7 @@ I want to work as a Java developer. I'm curious to know more about testing, and 
 <br/>
 
 <!-- GOODREADS-LIST:START -->
+- [Spring MVC: Designing Real-World Web Applications](https://www.goodreads.com/review/show/4590583975?utm_medium=api&utm_source=rss) by Shameer Kunjumohamed (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 <br/>
 <br/>
