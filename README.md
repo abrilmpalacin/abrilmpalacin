@@ -41,7 +41,7 @@ I want to work as a Java developer. I'm curious to know more about testing, and 
 <br/>
   
 <p>
-  <h2 align="left">My latest project</h2>
+  <h2 align="center">My latest project</h2>
 </p>
 <br/>
 <p align="center"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=abrilmpalacin&repo=courses-API&theme=tokyonight"/>
@@ -49,7 +49,7 @@ I want to work as a Java developer. I'm curious to know more about testing, and 
 <br/>
 
 <p>
-  <h2 align="left">Software skills</h2>
+  <h2 align="center">Software skills</h2>
 </p>
 <br/>
 <p>
@@ -78,7 +78,7 @@ I want to work as a Java developer. I'm curious to know more about testing, and 
 <br/>
 
 <p>
-  <h2 align="left">What I'm reading now</h2>
+  <h2 align="center">What I'm reading now</h2>
 </p
 <br/>
 <br/>
