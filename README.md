@@ -59,8 +59,9 @@ I want to work as a Java developer. I'm curious to know more about testing, and 
 <p align="center">
 <img src="https://img.shields.io/badge/Spring-Beginner-_.svg?logo=java"></a>
 <img src="https://img.shields.io/badge/Spring Boot-Intermediate-_.svg?logo=spring-boot"></a>
-<img src="https://img.shields.io/badge/JWT-Beginner-_.svg?logo=json-web-tokens"></a>
+<img src="https://img.shields.io/badge/Hibernate-Intermediate-_.svg?logo=hibernate"></a>
 <br/>
+<img src="https://img.shields.io/badge/JWT-Beginner-_.svg?logo=json-web-tokens"></a>
 <a href="#"><img src="https://img.shields.io/badge/JUnit 5-Intermediate-_.svg?logo=junit5"></a>
 <a href="#"><img src="https://img.shields.io/badge/Mockito-Beginner-_.svg?logo=mockito"></a>
 <a href="#"><img src="https://img.shields.io/badge/Swagger-Intermediate-_.svg?logo=swagger"></a>
