@@ -12,7 +12,10 @@ Reach me at
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-Intermediate-_.svg?logo=java"></a>
+<br/>
 <img src="https://img.shields.io/badge/MySQL-Beginner-_.svg?logo=mysql"></a>
+<img src="https://img.shields.io/badge/MongoDB-Beginner-_.svg?logo=mongodb"></a>
+<br/>
 <img src="https://img.shields.io/badge/Python-Intermediate-_.svg?logo=python"></a>
 </p>
 <br/>
